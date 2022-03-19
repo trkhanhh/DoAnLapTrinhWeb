@@ -14,8 +14,7 @@ Chỉ có admin mới có quyền edit và delete tất cả conten, còn member
 - Thay đổi Database Member để quản ly role (admin/user)
 - View content sắp xếp theo thời gian (mới ở trên)
 - Chức năng Search tất cả thông tin
-- ID tăng tự động, lúc xóa không cần sắp xếp lại, không sử dụng lại ko ạ
+- ID tăng tự động, lúc xóa không cần sắp xếp lại, không sử dụng lại
 - Khi bấm Edit thì sử dụng lại trang Form content
 - Register xong thông báo thành công rồi quay về trang Login
-- Thay đổi trên task thì báo để thầy thay đổi (hỏi nhóm trước khi thay đổi nha)
 - Giữ lại nội dung của phần Search sau khi search
